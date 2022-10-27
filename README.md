@@ -35,3 +35,8 @@ Tambien recorremos distintas soluciones que podrian tomarse a futuro a la hora d
 ## DIAGRAMA DE FLUJO
 
 ![Alt](/Diagrama/Diagrama.png)
+
+## VIDEO EXPLICATIVO
+
+https://www.youtube.com/watch?v=awbz8PY3xwg
+
