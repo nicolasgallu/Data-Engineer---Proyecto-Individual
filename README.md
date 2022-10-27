@@ -32,6 +32,6 @@ Tambien recorremos distintas soluciones que podrian tomarse a futuro a la hora d
 
 > sqlalchemy <br />
 
-## DIAGRAMA DE FLUJO Y EXPLICACION
+## DIAGRAMA DE FLUJO
 
 ![Alt](/Diagrama/Diagrama.png)
